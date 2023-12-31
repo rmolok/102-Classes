@@ -1,1 +1,25 @@
-# Class 02
+
+
+
+
+**Reading Assignment**
+
+What are four important features to look for in a text editor?
+1. code completion
+2. syntax highlighting
+3. a nice variety of themes (to reduce eye strain and fatigue)
+4) the ability to choose from a healthy selection of extensions available when you need them.
+
+What do the following commands do?
+1. pwd - Stands for Print Working Directory. It tells you what your current or present working directory is. 
+2. ls - It's short for List. It tells us what is in our current location.
+3. cd - Stands for Change Directory. It allows us to move around in the system. Running cd by itself will taje us back to our home directory
+4. mkdir - Short for Make Directory. The mkdir() function shall create a new directory with name path. The file permission bits of the new directory shall be initialized from mode. These file permission bits of the mode argument shall be modified by the process' file creation mask.
+5. touch - The touch command updates the access and modification times of each file specified by the File parameter of each directory specified by the Directory parameter. If you do not specify a value for the Time variable, the touch command uses the current time.
+
+Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
+1. cd projects - A single command line argument which is the location we would like to change into. The location is specified as a path and as such may be specified as either an absolute or relative path and using any of the path building blocks.
+2. mkdir new-project - It will create new directory named as new-project
+3. touch new-project/newfile.md - Updates access and modification to newfile.md in new-project
+4. cd .. - Took me to home directory (/home)
+5. ls projects/new-project - List of files in project directory. In this case, file is listed as new-project
