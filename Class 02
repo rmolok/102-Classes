@@ -23,3 +23,8 @@ Can you explain what is happening in the following scenario if these commands an
 3. touch new-project/newfile.md - Updates access and modification to newfile.md in new-project
 4. cd .. - Took me to home directory (/home)
 5. ls projects/new-project - List of files in project directory. In this case, file is listed as new-project
+
+*Reference*
+
+[GitHub Pages Intro Video](https://www.youtube.com/watch?v=2MsN8gpT6jY)
+
